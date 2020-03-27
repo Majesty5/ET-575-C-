@@ -1,0 +1,76 @@
+﻿  EX_1b_string_input_from_console.cpp
+F:\ET 575\Day 4\EX_1b_string_input_from_console.cpp(13,5): error C3861: 'getline': identifier not found
+  EX_1g_string_functions.cpp
+F:\ET 575\Day 4\EX_1g_string_functions.cpp(39,12): error C2374: 'name2': redefinition; multiple initialization
+F:\ET 575\Day 4\EX_1g_string_functions.cpp(38): message : see declaration of 'name2'
+F:\ET 575\Day 4\EX_1g_string_functions.cpp(40,5): error C2065: 'pos2': undeclared identifier
+F:\ET 575\Day 4\EX_1g_string_functions.cpp(40,19): error C2065: 'pos2': undeclared identifier
+F:\ET 575\Day 4\EX_1g_string_functions.cpp(43,10): error C2088: '<<': illegal for class
+F:\ET 575\Day 4\EX_1g_string_functions.cpp(44,28): error C2065: 'pos2': undeclared identifier
+F:\ET 575\Day 4\EX_1g_string_functions.cpp(45,5): error C2065: 'pos2': undeclared identifier
+F:\ET 575\Day 4\EX_1g_string_functions.cpp(45,23): error C2065: 'pos2': undeclared identifier
+F:\ET 575\Day 4\EX_1g_string_functions.cpp(46,28): error C2065: 'pos2': undeclared identifier
+  ._EX_1f_substring.cpp
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,1): warning C4821: Unable to determine Unicode encoding type, please save the file with signature (BOM)
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,2): error C2018: unknown character '0x5'
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,3): error C2018: unknown character '0x16'
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,4): error C2018: unknown character '0x7'
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,6): error C2018: unknown character '0x2'
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,13): error C2146: syntax error: missing ';' before identifier 'OS'
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,26): error C2018: unknown character '0x2'
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,34): error C2059: syntax error: 'bad suffix on number'
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,43): error C2018: unknown character '0x2'
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,47): error C3872: '0x201d': this character is not allowed in an identifier
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,125): error C2018: unknown character '0x1'
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,129): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,138): error C2018: unknown character '0xf'
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,156): error C2018: unknown character '0x2'
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,158): error C3872: '0xa0': this character is not allowed in an identifier
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,158): error C3872: '0xab': this character is not allowed in an identifier
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,158): error C3872: '0x2039': this character is not allowed in an identifier
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,177): error C3873: '0xa5': this character is not allowed as a first character of an identifier
+F:\ET 575\Day 4\__macosx\._EX_1f_substring.cpp(1,184): error C2018: unknown character '0x1'
+  ._EX_1g_string_functions.cpp
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,1): warning C4821: Unable to determine Unicode encoding type, please save the file with signature (BOM)
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,2): error C2018: unknown character '0x5'
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,3): error C2018: unknown character '0x16'
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,4): error C2018: unknown character '0x7'
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,6): error C2018: unknown character '0x2'
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,13): error C2146: syntax error: missing ';' before identifier 'OS'
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,26): error C2018: unknown character '0x2'
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,34): error C2059: syntax error: 'bad suffix on number'
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,43): error C2018: unknown character '0x2'
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,47): error C3872: '0x201d': this character is not allowed in an identifier
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,125): error C2018: unknown character '0x1'
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,129): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,138): error C2018: unknown character '0xf'
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,156): error C2018: unknown character '0x2'
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,158): error C3872: '0xa0': this character is not allowed in an identifier
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,158): error C3872: '0xab': this character is not allowed in an identifier
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,158): error C3872: '0x2039': this character is not allowed in an identifier
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,177): error C3873: '0xa5': this character is not allowed as a first character of an identifier
+F:\ET 575\Day 4\__macosx\._EX_1g_string_functions.cpp(1,184): error C2018: unknown character '0x1'
+  ._EX_2_math_functions.cpp
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,1): warning C4821: Unable to determine Unicode encoding type, please save the file with signature (BOM)
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,2): error C2018: unknown character '0x5'
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,3): error C2018: unknown character '0x16'
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,4): error C2018: unknown character '0x7'
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,6): error C2018: unknown character '0x2'
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,13): error C2146: syntax error: missing ';' before identifier 'OS'
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,26): error C2018: unknown character '0x2'
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,34): error C2059: syntax error: 'bad suffix on number'
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,43): error C2018: unknown character '0x2'
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,47): error C3872: '0x201d': this character is not allowed in an identifier
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,125): error C2018: unknown character '0x1'
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,129): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,138): error C2018: unknown character '0xf'
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,156): error C2018: unknown character '0x2'
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,158): error C3872: '0xa0': this character is not allowed in an identifier
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,158): error C3872: '0xab': this character is not allowed in an identifier
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,158): error C3872: '0x2039': this character is not allowed in an identifier
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,177): error C3873: '0xa5': this character is not allowed as a first character of an identifier
+F:\ET 575\Day 4\__macosx\._EX_2_math_functions.cpp(1,184): error C2018: unknown character '0x1'
+  Generating Code...
