@@ -1,39 +1,68 @@
 // Rashida Thomas
 // ET 575
-// Week 6 Iterations/Loops
-// Homework Due March 9, 2020
+// Week 10 Functions 2
+// Solution Problem # 1
+// Homework DUE April 13, 2020
 
+#include <cmath>
 #include <iostream>
 #include <iomanip>
 #include <string>
 using namespace std;
 
-int main()
-{
-  /* Task:
-  1. Request an integer from the console.
-  2. Input should be validated until it is between 1 and 100,000 inclusive.
-  3. Output the sum of all digits in the input value*/
+/* Task:
+1.Emulate the rolling of dice.
+a) Write a roll function which accepts the number of dice sides as input and returns the result of a random dice roll of the specified size.
+b) Overload the roll function to accept the number of rolls as a second input parameter.
+The overloaded function should return a random value
+which is the sum of r rolls of an n sided die.
+For example 2 d 9 is 2 rolls of a 9-sided die.
+c) Test the first function with various dice sizes (see output).
+d) Test the second function with various values (see output).
+e) The program should generate new random values every time it runs.
+Note that dice values start at 1.
+Example Output (input in bold italics)
+6-sided: 6
+12-sided: 7
+20-sided: 16
+3d7: 11
+2d8: 12
+4d5: 7
+*/
+void roll(int side);
+void roll(int side, int rolls);
 
-  int surprise;
-  int sum=0;
-  int c;
+int main() {
 
+  cout <<endl;
 
-  cout << "Input any number from 1 through 100,000" << endl;
-  cin >> surprise;
+  srand(time(NULL));
 
-  if(surprise<1 || surprise>100000)
-  { cout << "Follow the rules friend! " << endl << " Please input any number from 1 through 100,000" << endl;
-  cin >> surprise;
+  int input; //Value selected by user
+
+  cout << " Enter the number of sides for a playing dice" << endl;
+  cin >> input;
+
+  int r;// Values of the roll
+   (r<=input);
+  {
+    roll(input);
+    cout << input << " -sided: " << rand()%r;
   }
 
-  while (surprise>0)
-        { c=surprise%10; sum = sum +c; surprise= surprise/10;
-        }
-
-
-    cout << sum;
 
   return 0;
 }
+
+void roll(int side)
+{
+  int win;
+  win <= side;
+  side = rand()%win;
+} // Closing bracket for roll function with one parameter
+void roll(int side, int rolls)
+{
+// (base >=2 && base <=10);
+// number= rand()%base;
+  // cout << base<< endl;
+}// Closing bracket for roll function with two parameters
